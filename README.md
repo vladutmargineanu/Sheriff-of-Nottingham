@@ -26,6 +26,6 @@ mana. Apoi jucatorii care nu au rolul de seriff isi adauga produsele in saci
 dupa strategiile proprii. Dupa adaugarea produselor in sac se simuleaza inspectia
 serifului, iar in final comerciantii adauga produsele ce au trecut de inspectie
 in lista finala de produse, lista care le va aduce puncte la terminarea jocului.
-Dupa ce fiecare jucator a fost seriff cel putin de doua ori se calculeaza cate
+Dupa ce fiecare jucator a fost serif cel putin de doua ori se calculeaza cate
 puncte are fiecare jucator in total si ce bonusuri primeste, ca in final
 acestia sa fie sortati in functie de scor.
