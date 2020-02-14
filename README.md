@@ -4,9 +4,9 @@ Homework for the Object Oriented Programming course @ ACS, UPB 2018
 # Algorithm
 
 Pentru simularea jocului am folosit 3 clase fundamentale:
-	- clasa Player care incapsuleaza un jucator;
-	- clasa Card care incapsuleaza proprietatile unei carti de joc;
-	- clasa Game care simuleaza exact exact etapele jocului.
+- clasa Player care incapsuleaza un jucator;
+- clasa Card care incapsuleaza proprietatile unei carti de joc;
+- clasa Game care simuleaza exact exact etapele jocului.
 
 Clasa Player este extinsa de alte 3 clase care simuleaza cele 3 strategii de
 joc, si anume: BasicPlayer, GreedyPlayer si BribedPlayer. Fiecare dintre aceste
