@@ -1,6 +1,9 @@
 # Sheriff-of-Nottingham
 Homework for the Object Oriented Programming course @ ACS, UPB 2018
 
+# Rules
+Please read the game rules: https://bit.ly/2Nqp1VE
+
 # Algorithm
 
 Pentru simularea jocului am folosit 3 clase fundamentale:
